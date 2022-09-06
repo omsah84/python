@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch om",
+            "request": "launch",
+            "mainClass": "om",
+            "projectName": "webpoject_2be7c810"
+        },
+        {
+            "type": "java",
+            "name": "Launch Volume",
+            "request": "launch",
+            "mainClass": "Volume",
+            "projectName": "webpoject_2be7c810"
+        },
+        {
+            "type": "java",
+            "name": "Launch high_cohesion",
+            "request": "launch",
+            "mainClass": "high_cohesion",
+            "projectName": "webpoject_2be7c810"
+        },
+        {
+            "type": "java",
+            "name": "Launch low_cohesion",
+            "request": "launch",
+            "mainClass": "low_cohesion",
+            "projectName": "webpoject_2be7c810"
+        },
+        {
+            "type": "pwa-msedge",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "d:\\Program\\python\\webpoject\\index.html"
+        }
+    ]
+}

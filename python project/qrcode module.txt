@@ -1,0 +1,3 @@
+pip install pypng
+pip install pyzbar
+pip install pyqrcode
