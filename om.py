@@ -94,7 +94,7 @@ for i in range(7):
     a = int(input())
     list.append(a)
 
-print(list); 
+print(list); fd
 
 list = list.sort();
 print(list)
